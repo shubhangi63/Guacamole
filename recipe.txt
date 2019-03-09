@@ -1,3 +1,6 @@
 mix ingredients
+mash avacados
+cut onions
+cut chillies
 add secret ingredient
 

@@ -5,5 +5,4 @@ Salt
 Cilantro
 Onions
 Tomatoes
-Pepper
 Tortilla chips
